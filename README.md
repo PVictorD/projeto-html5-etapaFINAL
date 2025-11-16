@@ -131,7 +131,7 @@ Inclui Issues 4 e 5.
 
 ## 🚀 Deploy (opcional caso use GitHub Pages)
 O projeto pode ser acessado em:  
-https://pvictord.github.io/projeto-html5-etapaFINAL/
+https://pvictord.github.io/projeto-html5-etapa3/
 
 yaml
 Copiar código
